@@ -1,11 +1,18 @@
 # CS211
 Bellevue College, Winter 2018
+
 Author: Zach Wilson
 
 # Overview
 This repository contains all the code that I wrote as part of Bellevue College's CS211 class. Each assignment is located in its own folder, and a description of each assignment can be found below. The code I've written is heavily commented and should be fairly easy to read. The commenting style I use is based on [Doxygen](https://www.stack.nl/~dimitri/doxygen/index.html) rather than Javadocs, as I use Doxygen for generating documentation for other projects I work on.
 
 > All assignment implementatons provided here received perfect scores and/or extra credit. These are provided *as is*, and are intended to help students learn how to code. **Do not use the provided code as drop-in replacements for your own code.** Doing so won't result in you learning how to code or to become a better programmer (not to mention it's also plagarism).
+
+I am a self-taught programmer and have been coding since 2009. Most of my programming experience is in C++, though I've also written code in TypeScript, JavaScript, PowerShell, and Java. The programs I wrote for CS211 strike a balance between being functional and utilizing an easily maintainable/extensible design, and therefore may not utilize a style ideal for long term projects. Although my preference is to write code that can be easily extended in the future to add on extra functionality, that sort of design often results in extra work being done initially. As these assignments are purely for the class and not intended to be used in the future, I've tried to avoid going overboard in future-proofing the code.
+
+My extensive experience in C++ also results in frustration when writing Java code, as Java heavily neuters several features I use heavily in C++, or outright does not support functionality that C++ has. As such, some of my Java code is heavily influenced by how the code could be implemented in C++, and therefore may not be an ideal implementation in Java. Since the code is not going to be used in the future and isn't performance critical, writing "perfect" code was not a huge concern. Please keep these remarks in mind when reading the code for each assignment.
+
+For examples on coding for large projects, I have several C++ projects on GitHub that I plan on using in the future. Because these are intended to be long-term projects, I've put a lot of thought into their design, and are much better examples of how to code than some designs I used for completing these assignments. Though the projects are currently set to private on GitHub as of the end of this quarter (Winter 2018), many of these projects will be posted publically in the future.
 
 # Assignments
 ## Assignment #1
