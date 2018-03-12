@@ -1,0 +1,13 @@
+# Root Editorconfig file
+root = true
+
+[*]
+# Standard indentation style is 4-wide tabs.
+indent_style = tab
+indent_size = 4
+trim_trailing_whitespace = true
+
+[*.md]
+# Markdown files need to use spaces instead of tabs because GitHub uses
+# 8-space tabs instead of 4.
+indent_style = space
